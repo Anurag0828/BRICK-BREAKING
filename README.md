@@ -26,7 +26,7 @@ Contributing:
 Contributions are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to open an issue or submit a pull request.
 
 Made By:
-Simran Chauhan
+Simran Chauhan and Anurag sajwan
 
 Acknowledgments:
 
